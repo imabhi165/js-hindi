@@ -10,5 +10,6 @@
 
 ## teach :
 
-DOM tree structure : node , element,text,comments
-selecting elements : getElementById(), getElementByClassName, QuerySelector, querySelectorAll
+## DOM tree structure : node , element,text,comments
+
+## selecting elements : getElementById(), getElementByClassName, QuerySelector, querySelectorAll
